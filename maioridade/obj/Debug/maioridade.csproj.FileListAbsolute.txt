@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\maioridade\obj\Debug\maioridade.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\maioridade\obj\Debug\maioridade.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\maioridade\bin\Debug\maioridade.exe.config
+U:\Programação de Algoritmo\Projetos\maioridade\bin\Debug\maioridade.exe
+U:\Programação de Algoritmo\Projetos\maioridade\bin\Debug\maioridade.pdb
+U:\Programação de Algoritmo\Projetos\maioridade\obj\Debug\maioridade.exe
+U:\Programação de Algoritmo\Projetos\maioridade\obj\Debug\maioridade.pdb

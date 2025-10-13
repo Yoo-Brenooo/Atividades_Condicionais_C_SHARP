@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\Programa\u00E7\u00E3o de Algoritmo\\Projetos\\IMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7DE839-55F9-406A-890D-291115CEA2CD}|IMC.csproj|u:\\programa\u00E7\u00E3o de algoritmo\\projetos\\imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7DE839-55F9-406A-890D-291115CEA2CD}|IMC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "U:\\Programa\u00E7\u00E3o de Algoritmo\\Projetos\\IMC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "U:\\Programa\u00E7\u00E3o de Algoritmo\\Projetos\\IMC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:07:46.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

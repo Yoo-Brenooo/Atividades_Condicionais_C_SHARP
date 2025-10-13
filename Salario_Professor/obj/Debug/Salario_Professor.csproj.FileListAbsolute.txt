@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Salario_Professor\obj\Debug\Salario_Professor.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Salario_Professor\obj\Debug\Salario_Professor.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Salario_Professor\bin\Debug\Salario_Professor.exe.config
+U:\Programação de Algoritmo\Projetos\Salario_Professor\bin\Debug\Salario_Professor.exe
+U:\Programação de Algoritmo\Projetos\Salario_Professor\bin\Debug\Salario_Professor.pdb
+U:\Programação de Algoritmo\Projetos\Salario_Professor\obj\Debug\Salario_Professor.exe
+U:\Programação de Algoritmo\Projetos\Salario_Professor\obj\Debug\Salario_Professor.pdb

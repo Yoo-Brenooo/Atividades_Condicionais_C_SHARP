@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Positivo_ou_Negativo\obj\Debug\Positivo_ou_Negativo.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Positivo_ou_Negativo\obj\Debug\Positivo_ou_Negativo.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Positivo_ou_Negativo\bin\Debug\Positivo_ou_Negativo.exe.config
+U:\Programação de Algoritmo\Projetos\Positivo_ou_Negativo\bin\Debug\Positivo_ou_Negativo.exe
+U:\Programação de Algoritmo\Projetos\Positivo_ou_Negativo\bin\Debug\Positivo_ou_Negativo.pdb
+U:\Programação de Algoritmo\Projetos\Positivo_ou_Negativo\obj\Debug\Positivo_ou_Negativo.exe
+U:\Programação de Algoritmo\Projetos\Positivo_ou_Negativo\obj\Debug\Positivo_ou_Negativo.pdb

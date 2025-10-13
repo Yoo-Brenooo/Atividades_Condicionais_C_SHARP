@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\Programa\u00E7\u00E3o de Algoritmo\\Projetos\\Nadador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE638C59-EE9D-4836-AB28-4B39F3ABB32E}|Nadador.csproj|u:\\programa\u00E7\u00E3o de algoritmo\\projetos\\nadador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE638C59-EE9D-4836-AB28-4B39F3ABB32E}|Nadador.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "U:\\Programa\u00E7\u00E3o de Algoritmo\\Projetos\\Nadador\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "U:\\Programa\u00E7\u00E3o de Algoritmo\\Projetos\\Nadador\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:48:09.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

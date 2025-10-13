@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\IMC\bin\Debug\IMC.exe.config
+U:\Programação de Algoritmo\Projetos\IMC\bin\Debug\IMC.exe
+U:\Programação de Algoritmo\Projetos\IMC\bin\Debug\IMC.pdb
+U:\Programação de Algoritmo\Projetos\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\IMC\obj\Debug\IMC.exe
+U:\Programação de Algoritmo\Projetos\IMC\obj\Debug\IMC.pdb

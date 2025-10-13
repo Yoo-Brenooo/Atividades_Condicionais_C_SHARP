@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Nadador\bin\Debug\Nadador.exe.config
+U:\Programação de Algoritmo\Projetos\Nadador\bin\Debug\Nadador.exe
+U:\Programação de Algoritmo\Projetos\Nadador\bin\Debug\Nadador.pdb
+U:\Programação de Algoritmo\Projetos\Nadador\obj\Debug\Nadador.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Nadador\obj\Debug\Nadador.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Nadador\obj\Debug\Nadador.exe
+U:\Programação de Algoritmo\Projetos\Nadador\obj\Debug\Nadador.pdb
