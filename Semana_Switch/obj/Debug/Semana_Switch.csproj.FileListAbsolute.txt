@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Semana_Switch\obj\Debug\Semana_Switch.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Semana_Switch\obj\Debug\Semana_Switch.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Semana_Switch\bin\Debug\Semana_Switch.exe.config
+U:\Programação de Algoritmo\Projetos\Semana_Switch\bin\Debug\Semana_Switch.exe
+U:\Programação de Algoritmo\Projetos\Semana_Switch\bin\Debug\Semana_Switch.pdb
+U:\Programação de Algoritmo\Projetos\Semana_Switch\obj\Debug\Semana_Switch.exe
+U:\Programação de Algoritmo\Projetos\Semana_Switch\obj\Debug\Semana_Switch.pdb
