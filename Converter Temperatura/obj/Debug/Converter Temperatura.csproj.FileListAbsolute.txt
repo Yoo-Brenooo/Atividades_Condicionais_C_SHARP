@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Converter Temperatura\bin\Debug\Converter Temperatura.exe.config
+U:\Programação de Algoritmo\Projetos\Converter Temperatura\bin\Debug\Converter Temperatura.exe
+U:\Programação de Algoritmo\Projetos\Converter Temperatura\bin\Debug\Converter Temperatura.pdb
+U:\Programação de Algoritmo\Projetos\Converter Temperatura\obj\Debug\Converter Temperatura.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Converter Temperatura\obj\Debug\Converter Temperatura.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Converter Temperatura\obj\Debug\Converter Temperatura.exe
+U:\Programação de Algoritmo\Projetos\Converter Temperatura\obj\Debug\Converter Temperatura.pdb

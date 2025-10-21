@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Calculando Idade]\bin\Debug\Calculando Idade].exe.config
+U:\Programação de Algoritmo\Projetos\Calculando Idade]\bin\Debug\Calculando Idade].exe
+U:\Programação de Algoritmo\Projetos\Calculando Idade]\bin\Debug\Calculando Idade].pdb
+U:\Programação de Algoritmo\Projetos\Calculando Idade]\obj\Debug\Calculando Idade].csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Calculando Idade]\obj\Debug\Calculando Idade].csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Calculando Idade]\obj\Debug\Calculando Idade].exe
+U:\Programação de Algoritmo\Projetos\Calculando Idade]\obj\Debug\Calculando Idade].pdb
