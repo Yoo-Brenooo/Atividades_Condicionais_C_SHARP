@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Calculadora\bin\Debug\Calculadora.exe.config
+U:\Programação de Algoritmo\Projetos\Calculadora\bin\Debug\Calculadora.exe
+U:\Programação de Algoritmo\Projetos\Calculadora\bin\Debug\Calculadora.pdb
+U:\Programação de Algoritmo\Projetos\Calculadora\obj\Debug\Calculadora.exe
+U:\Programação de Algoritmo\Projetos\Calculadora\obj\Debug\Calculadora.pdb
