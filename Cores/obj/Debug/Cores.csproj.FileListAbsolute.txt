@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Cores\obj\Debug\Cores.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Cores\obj\Debug\Cores.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Cores\bin\Debug\Cores.exe.config
+U:\Programação de Algoritmo\Projetos\Cores\bin\Debug\Cores.exe
+U:\Programação de Algoritmo\Projetos\Cores\bin\Debug\Cores.pdb
+U:\Programação de Algoritmo\Projetos\Cores\obj\Debug\Cores.exe
+U:\Programação de Algoritmo\Projetos\Cores\obj\Debug\Cores.pdb

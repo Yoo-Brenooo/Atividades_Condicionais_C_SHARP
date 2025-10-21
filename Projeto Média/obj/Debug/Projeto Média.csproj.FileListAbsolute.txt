@@ -1,0 +1,7 @@
+U:\Programação de Algoritmo\Projetos\Projeto Média\bin\Debug\Projeto Média.exe.config
+U:\Programação de Algoritmo\Projetos\Projeto Média\bin\Debug\Projeto Média.exe
+U:\Programação de Algoritmo\Projetos\Projeto Média\bin\Debug\Projeto Média.pdb
+U:\Programação de Algoritmo\Projetos\Projeto Média\obj\Debug\Projeto Média.csproj.AssemblyReference.cache
+U:\Programação de Algoritmo\Projetos\Projeto Média\obj\Debug\Projeto Média.csproj.CoreCompileInputs.cache
+U:\Programação de Algoritmo\Projetos\Projeto Média\obj\Debug\Projeto Média.exe
+U:\Programação de Algoritmo\Projetos\Projeto Média\obj\Debug\Projeto Média.pdb
